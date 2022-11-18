@@ -240,6 +240,14 @@ body{
  text-align:center;
  border-top:1px solid black;
 }
+.footer-copy h3{
+    font-size:16px;
+    color:var(--light-black);
+    color:black;
+ margin-top:30px;
+ text-align:center;
+ border-top:1px solid black;
+}
 .content-wrap{
 
     margin-top:40px;
